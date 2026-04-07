@@ -30,6 +30,8 @@ I learned how to use different image sources for different viewports. Also I pra
 
 ### Links
 
-- Solution URL: https://github.com/nikrmajerovak-sys/Product-preview-card-component--Frontend-Mentor
-- Live Site URL: [https://github.com/nikrmajerovak-sys/Product-preview-card-component--Frontend-Mentor](https://nikrmajerovak-sys.github.io/Product-preview-card-component--Frontend-Mentor/)
+https://nikrmajerovak-sys.github.io/Product-preview-card-component--Frontend-Mentor/
+
+- Solution URL: [https://github.com/nikrmajerovak-sys/Product-preview-card-component--Frontend-Mentor
+- Live Site URL: [https://github.com/nikrmajerovak-sys/Product-preview-card-component--Frontend-Mentor](https://nikrmajerovak-sys.github.io/Product-preview-card-component--Frontend-Mentor/)](https://nikrmajerovak-sys.github.io/Product-preview-card-component--Frontend-Mentor/)
 
