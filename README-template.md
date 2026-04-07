@@ -31,5 +31,5 @@ I learned how to use different image sources for different viewports. Also I pra
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Solution]([https://your-live-site-url.com](https://github.com/nikrmajerovak-sys/Product-preview-card-component--Frontend-Mentor))
 
